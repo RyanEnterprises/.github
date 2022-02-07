@@ -1,4 +1,4 @@
-# ARTEMIS© Code of Conduct
+# Ryan Enterprises Code of Conduct
 
 ## Our Pledge
 

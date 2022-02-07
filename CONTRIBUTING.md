@@ -1,4 +1,4 @@
-# HOW TO CONTRIBUTE TO ARTEMIS
+# HOW TO CONTRIBUTE TO RYAN ENTERPRISES
 ## IN 4 EASY STEPS
 
 ### STEP 1: See if your changes are already implemented.
