@@ -1,4 +1,4 @@
-<img src="images/README.jpg" alt="Ryan Enterprises Open Source Banner" />
+<img src="./README.jpg" alt="Ryan Enterprises Open Source Banner" />
 
 # Welcome to Ryan Enterprises Open Source
 
